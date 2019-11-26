@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-lewkrjthlkjh
-=======
-test of branch 
->>>>>>> test_branch
-
-;adlksfj
